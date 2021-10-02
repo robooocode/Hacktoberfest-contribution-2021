@@ -2,7 +2,23 @@
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages
 # Javascript fundamentals
 ## comments
+```
+// this is a comments 
+
+/*
+  this comments
+*/
+```
 ## variable
+```
+ let firstname;
+ firstname = 'albert'
+ console.log(firstname);
+
+ /* 
+albert
+ */
+```
 ## data type
 ## operator
 # Data structure
