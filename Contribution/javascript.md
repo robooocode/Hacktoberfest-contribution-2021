@@ -20,6 +20,19 @@ albert
  */
 ```
 ## data type
+```
+let x;
+console.log(typeof(x));
+/* output : undefined */
+
+let y = 4; 
+console.log(typeof(y));
+/* output : number */
+
+let name = "reza";
+console.log(typeof(name));
+/* output : string */
+```
 ## operator
 # Data structure
 
